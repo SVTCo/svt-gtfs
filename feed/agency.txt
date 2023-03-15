@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+scioto_valley_traction_company,Scioto Valley Traction Company,https://github.com/SVTCo/svt-gtfs,America/New York,English
