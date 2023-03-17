@@ -1,0 +1,65 @@
+stop_id	stop_name	stop_desc	stop_lat	stop_lon	zone_id	location_type	parent_station
+C01	Columbus	Terminal located at Rich Street and Third Street	39.958186	-82.996679	C01	1	
+C02	South Parsons Avenue	Most likely located just south of the Toledo & Ohio Central Railroad crossing (now a viaduct).	39.920672	-82.984746	C02	1	
+C03	Chase	Located immediately north of the intersection with Llewellyn Avenue	39.914509	-82.984647	C03	1	
+C04	Ellison	Located immediately west of the intersection with the former Lockbourne Road right-of-way	39.899940	-82.967171	C04	1	
+C05	Valley Crossing	Located just north of the intersection with Williams (formerly Spangler) Road	39.890260	-82.958819	C05	1	
+C06	Johnston	"Most likely about 1,264 feet to the north of Obetz Junction station based on engineering drawings"	39.882820	-82.951791	C06	1	
+C07	Obetz Junction	Located just south of the intersection with Chillicothe Street	39.879409	-82.950871	C07	1	
+C08	Walnut Heights				C08	1	
+C09	Rees				C09	1	
+C10	Sharp				C10	1	
+C11	Miner				C11	1	
+C12	Guthrie				C12	1	
+C13	Lockbourne				C13	1	
+C14	Davis				C14	1	
+C15	Duvall				C15	1	
+C16	Gray				C16	1	
+C17	Griffith				C17	1	
+C18	Ashville				C18	1	
+C19	Rhoads				C19	1	
+C20	Haggerty				C20	1	
+C21	Bells				C21	1	
+C22	Fairview				C22	1	
+C23	Voorheis				C23	1	
+C24	Sheldon				C24	1	
+C25	Circleville				C25	1	
+C26	Cameron				C26	1	
+C27	Miller				C27	1	
+C28	Dorney				C28	1	
+C29	Hayesville				C29	1	
+C30	Hooven				C30	1	
+C31	Elmwood				C31	1	
+C32	Kingston				C32	1	
+C33	Jones				C33	1	
+C34	Courtright				C34	1	
+C35	Gravel Pit				C35	1	
+C36	Kinnikinnick				C36	1	
+C37	Hinman				C37	1	
+C38	Delano				C38	1	
+C39	Hopetown				C39	1	
+C40	Franklin				C40	1	
+C41	Chillicothe				C41	1	
+L01	Big Walnut				L01	1	
+L02	Bright				L02	1	
+L03	Burdell				L03	1	
+L04	Groveport				L04	1	
+L05	Rager				L05	1	
+L06	Prentiss				L06	1	
+L07	Canal Winchester				L07	1	
+L08	Waterloo				L08	1	
+L09	King				L09	1	
+L10	Jefferson				L10	1	
+L11	Becker				L11	1	
+L12	Lockville				L12	1	
+L13	Springs				L13	1	
+L14	Peters				L14	1	
+L15	Carroll				L15	1	
+L16	Jackson's Lane				L16	1	
+L17	Buckeye				L17	1	
+L18	Bismarck Park				L18	1	
+L19	Hookers				L19	1	
+L20	Camp Grounds				L20	1	
+L21	Stewart				L21	1	
+L22	Fair Avenue				L22	1	
+L23	Lancaster				L23	1	
