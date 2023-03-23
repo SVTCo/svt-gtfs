@@ -2,13 +2,13 @@ stop_id	stop_name	stop_desc	stop_lat	stop_lon	zone_id	location_type	parent_stati
 C01	Columbus	Terminal located at Rich Street and Third Street.	39.958186	-82.996679	C01	1	
 C02	South Parsons Avenue	Most likely located just south of the Toledo & Ohio Central Railroad crossing (now a viaduct).	39.920672	-82.984746	C02	1	
 C03	Chase	Located immediately north of the intersection with Llewellyn Avenue.	39.914509	-82.984647	C03	1	
-C04	Ellison	Located immediately west of the intersection with the former Lockbourne Road right-of-way.	39.899940	-82.967171	C04	1	
-C05	Valley Crossing	Located just north of the intersection with Williams (formerly Spangler) Road.	39.890260	-82.958819	C05	1	
-C06	Johnston	"Most likely about 1,264 feet to the north of Obetz Junction station based on measurements of engineering drawings."	39.882820	-82.951791	C06	1	
+C04	Ellison	Located immediately west of the intersection with the former Lockbourne Road right-of-way.	39.89994	-82.967171	C04	1	
+C05	Valley Crossing	Located just north of the intersection with Williams (formerly Spangler) Road.	39.89026	-82.958819	C05	1	
+C06	Johnston	"Most likely about 1,775 feet to the north of Obetz Junction station based on measurements of engineering drawings."	39.884146	-82.952557	C06	1	
 C07	Obetz Junction	Located just south of the intersection with Chillicothe Street.	39.879409	-82.950871	C07	1	
 C08	Walnut Heights	Most likely located just south of Daugherty Avenue.	39.867103	-82.951082	C08	1	
-C09	Rees	Located just north of the intersection with Lisle Road.	"39.862308, -82.951540"		C09	1	
-C10	Sharp	Located south of the intersection with Bixby Road.	39.853214	-82.952510	C10	1	
+C09	Rees	Located just north of the intersection with Lisle Road.	39.862308	-82.95154	C09	1	
+C10	Sharp	Located south of the intersection with Bixby Road.	39.853214	-82.95251	C10	1	
 C11	Miner	Most likely south of the intersection with Rohr Road (assumed former Worthington Road)	39.845566	-82.953121	C11	1	
 C12	Guthrie	Most likely just north of the intersection with OH-317 London Groveport Road.	39.831493	-82.954465	C12	1	
 C13	Lockbourne	Located just south of the intersection with Commerce Street	39.810649	-82.965216	C13	1	
@@ -17,18 +17,18 @@ C15	Duvall	Located north of the intersection with the right-of-way of Old Duvall
 C16	Gray	Located just south of the intersection with Weigand Road.	39.749769	-82.960603	C16	1	
 C17	Griffith	Most likely located just south of the intersection with OH-752 (assumed former State Street)	39.723515	-82.957357	C17	1	
 C18	Ashville	Located at the old station building north of Main Street	39.713333	-82.955581	C18	1	
-C19	Rhoads	Most likely located just north of the intersection with Lockbourne Eastern Road	39.683888	-82.955970	C19	1	
+C19	Rhoads	Most likely located just north of the intersection with Lockbourne Eastern Road	39.683888	-82.95597	C19	1	
 C20	Hagerty	"Located just north of the intersection with Hagerty Road.  Sometimes misspelled as ""Haggerty."""	39.669212	-82.956977	C20	1	
 C21	Bells	Located just north of the intersection with Bell Station Rd	39.654526	-82.956594	C21	1	
-C22	Fairview	"Most likely about 1,600 feet to the south of Bells based on measurements of engineering drawings."	39.650485	-82.954189	C22	1	
-C23	Voorheis				C23	1	
-C24	Sheldon				C24	1	
-C25	Circleville				C25	1	
-C26	Cameron				C26	1	
-C27	Miller				C27	1	
-C28	Dorney				C28	1	
-C29	Hayesville				C29	1	
-C30	Hooven				C30	1	
+C22	Fairview	"Most likely about 2,342 feet to the south of Bells based on measurements of engineering drawings."	39.648785	-82.953162	C22	1	
+C23	Voorheis	"Most likely about 4,445 feet to the north of the intersection with Walnut Creek Pike (formerly Little Walnut Creek Pike) based on measurements of engineering drawings."	39.635179	-82.94622	C23	1	
+C24	Sheldon	Most likely about 600 feet to the south of the intersection with Walnut Creek Pike (formerly Little Walnut Creek Pike) based on measurements of engineering drawings	39.621964	-82.940879	C24	1	
+C25	Circleville	Located at the southeast corner of Court Street and Watt Street	39.602828	-82.944491	C25	1	
+C26	Cameron	Located just west of the intersection with Clinton Street	39.592099	-82.941247	C26	1	
+C27	Miller	Located just north of the intersection with Tarlton Road	39.566681	-82.9403	C27	1	
+C28	Dorney	"Most likely about 3,180 feet to the south of Miller based on measurements of engineering drawings"	39.557916	-82.940867	C28	1	
+C29	Hayesville	Located just south of the intersection with Hayesville Road	39.537207	-82.937136	C29	1	
+C30	Hooven	"Most likely about 4,378 feet to the south of the intersection with Emerson Road based on measurements of engineering drawings."	39.52252652	-82.9358127	C30	1	
 C31	Elmwood				C31	1	
 C32	Kingston				C32	1	
 C33	Jones				C33	1	
