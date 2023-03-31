@@ -29,11 +29,10 @@ C27	Miller	Located just north of the intersection with Tarlton Road	39.566681	-8
 C28	Dorney	"Most likely about 3,180 feet to the south of Miller based on measurements of engineering drawings"	39.557916	-82.940867	C28	1	
 C29	Hayesville	Located just south of the intersection with Hayesville Road	39.537207	-82.937136	C29	1	
 C30	Hooven	"Most likely about 4,378 feet to the south of the intersection with Emerson Road based on measurements of engineering drawings."	39.52252652	-82.9358127	C30	1	
-C31	Elmwood				C31	1	
-C32	Kingston				C32	1	
-C33	Jones				C33	1	
-C34	Courtright				C34	1	
-C35	Gravel Pit				C35	1	
+C31	Elmwood	Located just north of the intersection with OH-361	39.500967	-82.9280	C31	1	
+C32	Kingston	Located at the old station building south of the intersection of Pickaway Street and Mulberry Street	39.473512	-82.9163	C32	1	
+C33	Jones	Located just south of the intersection with OH-159	39.462687	-82.9228	C33	1	
+C34	Courtright	Located just north of the intersection with Snyder Road	39.448494	-82.9279	C34	1	
 C36	Kinnikinnick				C36	1	
 C37	Hinman				C37	1	
 C38	Delano				C38	1	
