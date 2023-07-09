@@ -12,33 +12,37 @@ C10	Sharp	Located south of the intersection with Bixby Road.	39.853214	-82.95251
 C11	Miner	Most likely south of the intersection with Rohr Road (assumed former Worthington Road)	39.845566	-82.953121	C11	1	
 C12	Guthrie	Most likely just north of the intersection with OH-317 London Groveport Road.	39.831493	-82.954465	C12	1	
 C13	Lockbourne	Located just south of the intersection with Commerce Street	39.810649	-82.965216	C13	1	
-C14	Davis	Most likely located just north of the intersection with the right-of-way of Circleville Lockbourne Road.	39.794482	-82.957205	C14	1	
-C15	Duvall	Located north of the intersection with the right-of-way of Old Duvall Court.	39.772267	-82.959132	C15	1	
-C16	Gray	Located just south of the intersection with Weigand Road.	39.749769	-82.960603	C16	1	
-C17	Griffith	Most likely located just south of the intersection with OH-752 (assumed former State Street)	39.723515	-82.957357	C17	1	
-C18	Ashville	Located at the old station building north of Main Street	39.713333	-82.955581	C18	1	
-C19	Rhoads	Most likely located just north of the intersection with Lockbourne Eastern Road	39.683888	-82.95597	C19	1	
-C20	Hagerty	"Located just north of the intersection with Hagerty Road.  Sometimes misspelled as ""Haggerty."""	39.669212	-82.956977	C20	1	
-C21	Bells	Located just north of the intersection with Bell Station Rd	39.654526	-82.956594	C21	1	
-C22	Fairview	"Most likely about 2,342 feet to the south of Bells based on measurements of engineering drawings."	39.648785	-82.953162	C22	1	
-C23	Voorheis	"Most likely about 4,445 feet to the north of the intersection with Walnut Creek Pike (formerly Little Walnut Creek Pike) based on measurements of engineering drawings."	39.635179	-82.94622	C23	1	
-C24	Sheldon	Most likely about 600 feet to the south of the intersection with Walnut Creek Pike (formerly Little Walnut Creek Pike) based on measurements of engineering drawings	39.621964	-82.940879	C24	1	
-C25	Circleville	Located at the southeast corner of Court Street and Watt Street	39.602828	-82.944491	C25	1	
-C26	Cameron	Located just west of the intersection with Clinton Street	39.592099	-82.941247	C26	1	
-C27	Miller	Located just north of the intersection with Tarlton Road	39.566681	-82.9403	C27	1	
-C28	Dorney	"Most likely about 3,180 feet to the south of Miller based on measurements of engineering drawings"	39.557916	-82.940867	C28	1	
-C29	Hayesville	Located just south of the intersection with Hayesville Road	39.537207	-82.937136	C29	1	
-C30	Hooven	"Most likely about 4,378 feet to the south of the intersection with Emerson Road based on measurements of engineering drawings."	39.52252652	-82.9358127	C30	1	
-C31	Elmwood	Located just north of the intersection with OH-361	39.500967	-82.9280	C31	1	
-C32	Kingston	Located at the old station building south of the intersection of Pickaway Street and Mulberry Street	39.473512	-82.9163	C32	1	
-C33	Jones	Located just south of the intersection with OH-159	39.462687	-82.9228	C33	1	
-C34	Courtright	Located just north of the intersection with Snyder Road	39.448494	-82.9279	C34	1	
-C36	Kinnikinnick				C36	1	
-C37	Hinman				C37	1	
-C38	Delano				C38	1	
-C39	Hopetown				C39	1	
-C40	Franklin				C40	1	
-C41	Chillicothe				C41	1	
+C14	Miner	Most likely just north of the Franklin-Pickaway county line.	39.802289	-82.95739	C14	1	
+C15	Davis	Most likely located just north of the intersection with the right-of-way of Circleville Lockbourne Road.	39.794482	-82.957205	C15	1	
+C16	Duvall	Located north of the intersection with the right-of-way of Old Duvall Court.	39.772267	-82.959132	C16	1	
+C17	Gray	Located just south of the intersection with Weigand Road.	39.749769	-82.960603	C17	1	
+C18	Griffith	Most likely located just south of the intersection with OH-752 (assumed former State Street)	39.723515	-82.957357	C18	1	
+C19	Ashville	Located at the old station building north of Main Street	39.713333	-82.955581	C19	1	
+C20	Rhoads	Most likely located just north of the intersection with Lockbourne Eastern Road	39.683888	-82.95597	C20	1	
+C21	Hagerty	"Located just north of the intersection with Hagerty Road.  Sometimes misspelled as ""Haggerty."""	39.669212	-82.956977	C21	1	
+C22	Bells	Located just north of the intersection with Bell Station Rd	39.654526	-82.956594	C22	1	
+C23	Fairview	"Most likely about 2,342 feet to the south of Bells based on measurements of engineering drawings."	39.648785	-82.953162	C23	1	
+C24	Voorheis	"Most likely about 4,445 feet to the north of the intersection with Walnut Creek Pike (formerly Little Walnut Creek Pike) based on measurements of engineering drawings."	39.635179	-82.94622	C24	1	
+C25	Sheldon	Most likely about 600 feet to the south of the intersection with Walnut Creek Pike (formerly Little Walnut Creek Pike) based on measurements of engineering drawings	39.621964	-82.940879	C25	1	
+C26	Circleville	Located at the southeast corner of Court Street and Watt Street	39.602828	-82.944491	C26	1	
+C27	Cameron	Located just west of the intersection with Clinton Street	39.592099	-82.941247	C27	1	
+C28	Miller	Located just north of the intersection with Tarlton Road	39.566681	-82.9403	C28	1	
+C29	Dorney	"Most likely about 3,180 feet to the south of Miller based on measurements of engineering drawings"	39.557916	-82.940867	C29	1	
+C30	Hayesville	Located just south of the intersection with Hayesville Road	39.537207	-82.937136	C30	1	
+C31	Hooven	"Most likely about 4,378 feet to the south of the intersection with Emerson Road based on measurements of engineering drawings."	39.52252652	-82.9358127	C31	1	
+C32	Lorbach	"Most likely about 1,410 feet to the south of Hooven based on measurements of engineering drawings"	39.518643	-82.936096	C32	1	
+C33	Elmwood	Located just north of the intersection with OH-361	39.500967	-82.928	C33	1	
+C34	Kingston	Located at the old station building south of the intersection of Pickaway Street and Mulberry Street	39.473512	-82.9163	C34	1	
+C35	Jones	Located just south of the intersection with OH-159	39.462687	-82.9228	C35	1	
+C36	Courtright	Located just north of the intersection with Snyder Road	39.448494	-82.9279	C36	1	
+C37	Centralia	Located just south of the bridge over the Norfolk Southern right-of-way and just north of the intersection with OH-180 (formerly Adelphi Pike).	39.428985	-82.93966	C37	1	
+C38	Kinnikinnick	Located at the intersection of the right-of-way with a property line extending south from OH-180 (formerly Adelphi Pike)	39.425788	-82.949804	C38	1	
+C39	Hinman	"Most likely about 3,154 feet to the south of the intersection of the old OH-180 (formerly Adelphi Pike) right-of-way with the old OH-154 (formerly Zanesville & Maysville Pike) right-of-way based on measurements of engineering drawings"	39.416863	-82.956505	C39	1	
+C40	Delano	Located just north of the intersection with Delano Road	39.407369	-82.959359	C40	1	
+C41	Hopetown	Located just north of the point where Hopetown Road begins to parallel the Norfolk Southern right-of-way	39.380887	-82.969225	C41	1	
+C42	Franklin	Located just north of the intersection with Seney Road	39.364301	-82.975846	C42	1	
+C43	Mancourt	"Most likely about 4,594 feet to the south of Franklin based on measurements of engineering drawings"	39.35175	-82.976379	C43	1	
+C44	Chillicothe	Located in the northeastern block at the corner of the intersection of Bridge Street and Main Street	39.334926	-82.973563	C44	1	
 L01	Big Walnut				L01	1	
 L02	Bright				L02	1	
 L03	Burdell				L03	1	
